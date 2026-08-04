@@ -6,7 +6,7 @@ Frontend Developer in training
 ## About Me
 - 🎓 Studying Bachelor of Science in Computer Science, at Sunway University
 - 🌱 Currently learning JavaScript, modern CSS, powerBI, responsive web design
-- 🙋🏻‍♀️ State athlete
+- 🏐 State athlete
 - 📫 Reach me at: olivia.en3@gmail.com
 
 ## Tech Stack
