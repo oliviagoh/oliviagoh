@@ -10,11 +10,11 @@ Frontend Developer in training
 - 📫 Reach me at: olivia.en3@gmail.com
 
 ## Tech Stack
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 - Git & GitHub
-- SQL
+- Oracle SQL
 
  ## Featured Projects
 - 🎧 Sonique Headphone Website
