@@ -1,6 +1,6 @@
 # Hi, I'm Olivia Goh 
 
-Frontend Developer in training | React & JavaScript enthusiast  
+Frontend Developer in training  
 🎯 Currently seeking a Frontend Developer Internship
 
 ## About Me
