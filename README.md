@@ -1,7 +1,8 @@
 # Hi, I'm Olivia Goh 
 
 Frontend Developer in training  
-🎯 Currently seeking a Frontend Developer Internship
+- 🎯 Currently seeking a Frontend Development or Database/SQL Internship
+
 
 ## About Me
 - 🎓 Studying Bachelor of Science in Computer Science, at Sunway University
