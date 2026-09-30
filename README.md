@@ -9,6 +9,8 @@ Frontend Developer in training
 - 🌱 Currently learning JavaScript, modern CSS, powerBI, responsive web design
 - 🏐 State athlete
 - 📫 Reach me at: olivia.en3@gmail.com
+- LinkedIn: www.linkedin.com/in/olivia-goh-56905b370
+
 
 ## Tech Stack
 - HTML
