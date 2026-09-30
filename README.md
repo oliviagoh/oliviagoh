@@ -19,6 +19,9 @@ Frontend Developer in training
 
  ## Featured Projects
 - 🎧 Sonique Headphone Website
-- 🎟️ Ticket Booking System
-- 🛍️ E-commerce Customer Dashboard
-- 🐥 Pokémon Ga-Olé
+- 🎟️ Animal Shelter Database
+- 🐥 Personal Portfolio Website
+
+## Explore More
+
+Feel free to look around my GitHub and explore my other repositories to see what else I've been working on!
